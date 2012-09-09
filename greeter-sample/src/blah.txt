@@ -1,0 +1,29 @@
+Choose Product
+70-503 CS	70-503 CS - TS: Microsoft .NET Framework 3.5 - Windows Communication Foundation C#
+70-503 Practice Test. The Practice Test for Microsoft Exam 70-503 CS contains 150 Questions, Robust Explanations. Includes free SumITUp Study Guide and free Demo.
+70-503 VB	70-503 VB - TS: Microsoft .NET Framework 3.5 - Windows Communication Foundation VB
+70-503 VB Practice Test. The Practice Test for Microsoft Exam 70-503 VB contains 150 Questions, Robust Explanations. Includes free SumITUp Study Guide and free Demo.
+70-505 CS	70-505 CS - TS: Microsoft .NET Framework 3.5 - Windows Forms Application Development C#
+70-505 Practice Test. The Practice Test for Microsoft Exam 70-505 CS contains 178 Questions, Robust Explanations. Includes free SumITUp Study Guide and free Demo.
+70-505 VB	70-505 VB - TS: Microsoft .NET Framework 3.5 - Windows Forms Application Development VB
+70-505 VB Practice Test. The Practice Test for Microsoft Exam 70-505 VB contains 178 Questions, Robust Explanations. Includes free SumITUp Study Guide and free Demo.
+70-536 CS	70-536 CS - TS: Microsoft .NET Framework - Application Development Foundation C#
+70-536 Practice Test. The Practice Test for Microsoft Exam 70-536 CS contains 172 Questions, Robust Explanations. Includes free SumITUp Study Guide and free Demo.
+70-536 VB	70-536 VB - TS: Microsoft .NET Framework - Application Development Foundation VB
+70-536 VB Practice Test. The Practice Test for Microsoft Exam 70-536 VB contains 172 Questions, Robust Explanations. Includes free SumITUp Study Guide and free Demo.
+70-536VB	70-536VB - TS: Microsoft .NET Framework - Application Development Foundation VB
+Online Course (e-learning) for Microsoft 70-536VB contains 13 items. Total time: 19 hours.
+70-561 CS	70-561 CS - TS: Microsoft .NET Framework 3.5, ADO.NET Application Development C#
+70-561 Practice Test. The Practice Test for Microsoft Exam 70-561 CS contains 130 Questions, Robust Explanations. Includes free Demo.
+70-561 VB	70-561 VB - TS: Microsoft .NET Framework 3.5, ADO.NET Application Development VB
+70-561 VB Practice Test. The Practice Test for Microsoft Exam 70-561 VB contains 130 Questions, Robust Explanations. Includes free Demo.
+70-562	70-562 - Microsoft .NET Framework 3.5, ASP.NET Application Development Online Course
+70-562 Online Course (e-learning) for Microsoft .NET Framework 3.5, ASP.NET Application Development contains 13 items. Total time: 20 hours.
+70-562 CS	70-562 CS - TS: Microsoft .NET Framework 3.5, ASP.NET Application Development C#
+70-562 Practice Test. The Practice Test for Microsoft Exam 70-562 CS contains 150 Questions, Robust Explanations. Includes free SumITUp Study Guide and free Demo.
+70-562 VB	70-562 VB - TS: Microsoft .NET Framework 3.5, ASP.NET Application Development VB
+70-562 VB Practice Test. The Practice Test for Microsoft Exam 70-562 VB contains 150 Questions, Robust Explanations. Includes free SumITUp Study Guide and free Demo.
+70-568 CS	70-568 CS - Upgrade: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, Part 1 C#
+70-568 Practice Test. The Practice Test for Microsoft Exam 70-568 CS contains 258 Questions, Robust Explanations. Includes free SumITUp Study Guide and free Demo.
+70-568 VB	70-568 VB - Upgrade: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, Part 1 VB
+70-568 VB Practice Test. The Practice Test for Microsoft Exam 70-568 VB contains 258 Questions, Robust Explanations. Includes free SumITUp Study Guide and free Demo.
